@@ -1,2 +1,4 @@
 # hello_world
-hi
+Hi!
+
+This is "Hello world!" programm on Java.
